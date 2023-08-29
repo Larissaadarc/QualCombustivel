@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qual combustivel</string>
+    <string name="answer_etanol">Abateça com etanol.</string>
+    <string name="answer_gas">Abateça com gasolina.</string>
+    <string name="message_gas">Valor do litro de gasolina:</string>
+    <string name="message_etanol">Valor do litro de etanol</string>
+    <string name="button_text">Qual a melhor opção?</string>
+</resources>
